@@ -1,4 +1,4 @@
-package com.kit.cryptocurrency.presentation.theme
+package com.kit.cryptocurrency.presentation.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.Shapes

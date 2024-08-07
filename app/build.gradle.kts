@@ -76,4 +76,7 @@ dependencies {
 
     implementation(libs.google.dagger.hilt)
     kapt(libs.google.dagger.hilt.compiler)
+
+    implementation(libs.kotlinx.coroutines.android)
+    implementation(libs.kotlinx.coroutines.android.v162)
 }

@@ -3,12 +3,12 @@ import androidx.compose.material3.darkColorScheme
 import androidx.compose.material3.lightColorScheme
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.graphics.Color
-import com.kit.cryptocurrency.presentation.theme.ColorPrimary
-import com.kit.cryptocurrency.presentation.theme.DarkGray
-import com.kit.cryptocurrency.presentation.theme.MediumGray
-import com.kit.cryptocurrency.presentation.theme.Shapes
-import com.kit.cryptocurrency.presentation.theme.TextWhite
-import com.kit.cryptocurrency.presentation.theme.Typography
+import com.kit.cryptocurrency.presentation.ui.theme.ColorPrimary
+import com.kit.cryptocurrency.presentation.ui.theme.DarkGray
+import com.kit.cryptocurrency.presentation.ui.theme.MediumGray
+import com.kit.cryptocurrency.presentation.ui.theme.Shapes
+import com.kit.cryptocurrency.presentation.ui.theme.TextWhite
+import com.kit.cryptocurrency.presentation.ui.theme.Typography
 
 
 private val DarkColorPalette = darkColorScheme(

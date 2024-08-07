@@ -1,4 +1,4 @@
-package com.kit.cryptocurrency.presentation
+package com.kit.cryptocurrency.presentation.ui
 
 sealed class Screen(val route: String) {
     object CoinListScreen: Screen("coin_list_screen")
